@@ -3,7 +3,6 @@ public class Book {
     private String title;
     private String author;
     public Book() {}
-
     public Book(Long id, String title, String author) {
         this.id = id;
         this.title = title;
